@@ -1,4 +1,4 @@
-{
+weltv{
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Donnerwelt.aternos.me",
+    "ip": "Donnerweltv.minekeep.io",
     "port": 62213,
     "version": "",
     "try-creative": false
