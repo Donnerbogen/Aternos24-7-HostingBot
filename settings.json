@@ -6,9 +6,9 @@ weltv{
     "type": "offline"
   },
   "server": {
-    "ip": "Donnerweltv.minekeep.io",
-    "port": 62213,
-    "version": "",
+    "ip": "DonnerCreateLive1.aternos.me",
+    "port": 36944,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,7 @@ weltv{
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Hallo",
-        "Toll hier!",
-        "Das macht Spaß!"
+        "Hallo"
       ]
     },
     "chat-log": true,
@@ -69,8 +67,8 @@ weltv{
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
